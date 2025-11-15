@@ -73,4 +73,22 @@ Change the Noise settings in Python file `Noise.py`.
 Our code is adapted from the original [WeatherDiffusion](https://github.com/IGITUGraz/WeatherDiffusion) and [MBRS](https://github.com/jzyustc/MBRS) repository. We thank the authors for sharing their code.
 
 ****
+
+## Citation
+
+If our work is useful for your research, please consider citing:
+```
+@ARTICLE{11249441,
+  author={Luo, Ting and Hu, Renzhi and He, Zhouyan and Jiang, Gangyi and Xu, Haiyong and Song, Yang and Chang, Chin-Chen},
+  journal={IEEE Transactions on Multimedia}, 
+  title={DiffW: Multi-Encoder Based on Conditional Diffusion Model for Robust Image Watermarking}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/TMM.2025.3632631}
+}
+```
+
+****
 #### --- Thanks for your interest! --- ####
