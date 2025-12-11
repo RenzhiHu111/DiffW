@@ -29,7 +29,7 @@ Please download ImageNet or COCO datasets, and push them into `data` folder like
 │   │   │  ├──input 
 │   │   │  │   ├── xxx.jpg
 │   │   │  │   ├── ...
-│   │   ├──test
+│   │   ├──val
 │   │   │  ├──gt
 │   │   │  │   ├── xxx.jpg
 │   │   │  │   ├── ...
