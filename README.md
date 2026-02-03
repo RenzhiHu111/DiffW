@@ -82,10 +82,11 @@ If our work is useful for your research, please consider citing:
   author={Luo, Ting and Hu, Renzhi and He, Zhouyan and Jiang, Gangyi and Xu, Haiyong and Song, Yang and Chang, Chin-Chen},
   journal={IEEE Transactions on Multimedia}, 
   title={DiffW: Multi-Encoder Based on Conditional Diffusion Model for Robust Image Watermarking}, 
-  year={2025},
-  volume={},
+  year={2026},
+  volume={28},
   number={},
-  pages={1-16},
+  pages={837-852},
+  keywords={Watermarking;Training;Feature extraction;Diffusion models;Robustness;Diffusion processes;Decoding;Generative adversarial networks;Noise measurement;Transforms;Deep-learning;watermarking;conditional diffusion model;multi-encoder},
   doi={10.1109/TMM.2025.3632631}
 }
 ```
